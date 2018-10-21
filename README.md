@@ -1,7 +1,7 @@
 ## Lyfe (We can change at any point)
 
 ## App Description
-Social Media Tracking application that keeps tracking of personal social media accounts, and let's the user know information about their accounts
+Social Media Tracking application that keeps tracking of personal social media accounts, and let's the user know information about their accounts: number of followers and number of likes per post. 
 
 Author(s):
 Josue Castillo
